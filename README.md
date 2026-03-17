@@ -34,6 +34,8 @@ This project was created to practice:
 ##Screenshot
 
 ![Gameplay](screenshots/gameplay.png)
+![page](screenshots/page.png)
+![popup](screenshots/page.png)
 
 ##What I Learned
 
